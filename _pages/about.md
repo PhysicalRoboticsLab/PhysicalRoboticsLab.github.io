@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Physical Robotics Lab is under guidance of prof <a href='[#](https://seungwoo-hong.github.io/)'>Seungwoo Hong</a> and we are interseted in hummanoid control and embodiments.
+Physical Robotics Lab is under guidance of [Prof. Seungwoo Hong](https://seungwoo-hong.github.io/) and we are interseted in hummanoid control and embodiments.
 
 
